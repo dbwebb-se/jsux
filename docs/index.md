@@ -1,3 +1,13 @@
+---
+title: jsux
+layout: default
+author:
+    - efo
+revision:
+    "2024-08-15": (A, efo) Första versionen inför HT25.
+---
+
+
 # Kursen jsux
 
 Kursen **UX-design med JavaScript**, a.k.a. *jsux*, lär ut grundläggande kunskap i användbarhet och fördjupad kunskap i programmeringsspråket JavaScript för att bygga webbapplikationer i webbläsaren.
